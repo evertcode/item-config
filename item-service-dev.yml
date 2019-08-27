@@ -1,0 +1,5 @@
+server:
+  port: 8006
+
+message:
+  test: Hola mundo cruel(ENV DEV)

@@ -3,3 +3,8 @@ server:
 
 message:
   test: Hola mundo cruel(ENV PROD)
+
+autor:
+  nombre: Hebert Hernández
+  email: hebert.hernandez7@gmail.com
+
